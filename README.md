@@ -87,9 +87,9 @@ It will:
 ## License
 This project is for academic and educational purposes.
 
-### Author
+## Author
 Hemakshi Kumar
-Feel free to contribute, open issues, or star ⭐ the repo!
+- Feel free to contribute, open issues, or star ⭐ the repo!
 
 
 
